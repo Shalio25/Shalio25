@@ -32,11 +32,10 @@ Sedang mendalami **Artificial Intelligence** dan **Software Engineering**
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=marshal&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marshal&theme=radical" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shalio25&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shalio25&theme=radical" alt="GitHub Streak" height="165" />
 </p>
 
-> Ganti `marshal` pada dua link di atas dengan username GitHub kamu yang sebenarnya agar statistik muncul dengan benar.
 
 ---
 
