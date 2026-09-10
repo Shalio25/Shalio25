@@ -1,4 +1,4 @@
-# Halo, saya Marshal 👋
+# Halo, saya Marshal Dzaky Yosefhira👋
 
 🎓 Mahasiswa Teknik Informatika di **Universitas Kuningan**
 Sedang mendalami **Artificial Intelligence** dan **Software Engineering**
