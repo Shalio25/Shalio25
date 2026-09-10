@@ -33,12 +33,12 @@ Sedang mendalami **Artificial Intelligence** dan **Software Engineering**
  
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Shalio25&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marshal&theme=radical" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shalio25&theme=radical" alt="GitHub Streak" height="165" />
 </p>
 
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME_GITHUB/USERNAME_GITHUB/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Shalio25/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
